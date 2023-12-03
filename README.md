@@ -13,3 +13,11 @@ python -m pip install TTS
 tts-server --model_path path/to/model.pth --config_path path/to/config.json
 ```
 and go to the address ```http://[::1]:5002``` in your browser. 
+## Original sample:
+
+[sample_original.webm](https://github.com/Cashaqu/text2speech/assets/131269265/1df67ca8-b604-45fc-b6db-df0f89265eb7)
+
+
+## Generated sample:
+
+[sample_generated.webm](https://github.com/Cashaqu/text2speech/assets/131269265/4cffb84d-dd27-43f2-ad27-565b25478db2)
